@@ -1,0 +1,32 @@
+target/
+*/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+*/.apt_generated
+*/.classpath
+*/.factorypath
+*/.project
+*/.settings
+*/.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*/.flattened-pom.xml
+.flattened-pom.xml
+
+*/.idea
+*/*.iws
+*/*.iml
+*/*.ipr
+
+**/pom.xml.versionsBackup
