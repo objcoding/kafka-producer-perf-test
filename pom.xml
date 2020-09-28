@@ -38,7 +38,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.kafka.producer.perftest.Main</mainClass>
+                            <mainClass>com.objcoding.kafka.producer.perftest.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
